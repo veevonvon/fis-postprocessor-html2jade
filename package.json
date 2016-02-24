@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "fis-postprocessor-html2jade",
+      "C:\\vee\\ask_for_eating"
+    ]
+  ],
+  "_from": "fis-postprocessor-html2jade@latest",
+  "_id": "fis-postprocessor-html2jade@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/fis-postprocessor-html2jade",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/fis-postprocessor-html2jade-1.0.0.tgz_1456300984743_0.30978831415995955"
+  },
+  "_npmUser": {
+    "email": "guwuyinou@126.com",
+    "name": "veevonvon"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "fis-postprocessor-html2jade",
+    "raw": "fis-postprocessor-html2jade",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_shasum": "98236ca5072aeb504bff43e2f47befa7dd2988ca",
+  "_shrinkwrap": null,
+  "_spec": "fis-postprocessor-html2jade",
+  "_where": "C:\\vee\\ask_for_eating",
+  "author": {
+    "name": "veevonvon"
+  },
+  "bugs": {
+    "url": "https://github.com/veevonvon/fis-postprocessor-html2jade/issues"
+  },
+  "dependencies": {
+    "html2jade": "^0.8.4"
+  },
+  "description": "fis-postprocessor-html2jade",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "98236ca5072aeb504bff43e2f47befa7dd2988ca",
+    "tarball": "http://registry.npmjs.org/fis-postprocessor-html2jade/-/fis-postprocessor-html2jade-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/veevonvon/fis-postprocessor-html2jade#readme",
+  "keywords": [
+    "fis",
+    "html2jade"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "veevonvon",
+      "email": "guwuyinou@126.com"
+    }
+  ],
+  "name": "fis-postprocessor-html2jade",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veevonvon/fis-postprocessor-html2jade.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
