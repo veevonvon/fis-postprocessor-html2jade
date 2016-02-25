@@ -8,11 +8,7 @@
 var html2jade = require('html2jade');
 var root = fis.project.getProjectPath();
 
-module.exports = function(content, file, conf){
-
-    conf.paths = [ file.dirname, root ];
-    conf.syncImport = true;
-    conf.relativeUrls = true;
+module.exports = function(content){
 
     html2jade.convertHtml(content, {}, function (err, jade) {
         if (err) {
